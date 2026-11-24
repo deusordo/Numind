@@ -1,0 +1,35 @@
+NuMind guide review checklist
+
+Use this worksheet for a small, low-risk task. A shared bookshelf
+inventory is one example. Keep the worksheet with the guide copy.
+
+1. Describe the task
+   Title and version:
+   Intended reader:
+   What a finished result looks like:
+   Materials the reader will have:
+
+2. Identify the reference
+   Source title, author or organization, and edition:
+   Link or local filename:
+   Conditions and limits for using the source:
+   Permission for any quoted or included material:
+
+3. Prepare the guide
+   Write the steps in order and include a way to check the result.
+   Save a local copy or print it. Mark its version and review date.
+
+4. Run a reader trial
+   Give the copy to someone who did not write the guide. Ask them to
+   try the task without opening a website or asking the writer.
+   Could they find every needed item?
+   Which step, if any, needed clarification?
+   Did they reach the expected result?
+
+5. Record changes
+   Trial date:
+   Outcome:
+   What needs to change:
+   Who will check the revision and when:
+
+Use and keep this worksheet locally.

@@ -104,7 +104,16 @@ h1 { font-size: clamp(3.9rem, 9vw, 8rem); font-weight: 600; letter-spacing: -.05
 .resource-group h3 { margin: .35rem 0 .25rem; font: 650 clamp(1.1rem, 2vw, 1.35rem)/1.2 var(--heading); }
 .resource-group ul { display: grid; gap: .6rem; padding: 0; margin: 0; list-style: none; }
 .resource-group p { max-width: 31rem; margin: 0; color: var(--muted); font-size: .94rem; }
-.library-plan { border-block-start: 1px solid var(--rule); padding-block-start: 1.4rem; margin-block: 0 clamp(2rem, 5vw, 4rem); }
+.library-plan { border-block-start: 1px solid var(--rule); padding-block-start: 1.4rem; }
+.content-section { border-block-start: 1px solid var(--rule); padding-block-start: 1.4rem; }
+.content-section h3 { margin: 0 0 .55rem; font: 650 1.15rem/1.2 var(--heading); }
+.content-section p + p { margin-top: .75rem; }
+.project-steps { max-width: 42rem; margin: .75rem 0 .3rem; padding-inline-start: 1.5rem; }
+.project-steps li + li { margin-top: .3rem; }
+.questions { max-width: 43rem; margin: 0; }
+.questions dt { font-weight: 650; }
+.questions dt:not(:first-child) { margin-top: 1rem; }
+.questions dd { margin: .2rem 0 0; color: var(--muted); }
 @media (max-width: 620px) {
   .header-inner { gap: .25rem .65rem; }
   .header-links { gap: .2rem .65rem; }
